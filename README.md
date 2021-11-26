@@ -1,5 +1,5 @@
 # Skin
 
-== My project name ==
+## My project name 
 
 This project is about ...
